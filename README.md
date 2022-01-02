@@ -1,2 +1,2 @@
-# godot-client-server-template
+# godot-multiplayer-template
 Template for multiplayer game projects
